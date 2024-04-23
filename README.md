@@ -3,6 +3,7 @@ COMPONENT DESCRIPTION
 
 ## Inputs
 A DESCRIPTION OF THE INPUTS
+
 TABLE: | input name | input data type | example value | description | </TABLE>
 
 ## Output
